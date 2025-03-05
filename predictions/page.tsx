@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Predictions() {
     return (
       <div style={{ textAlign: "center", padding: "50px" }}>
